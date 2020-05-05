@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.108.1](https://www.github.com/googleapis/java-storage/compare/v1.108.0...v1.108.1) (2020-05-05)
+
+
+### Dependencies
+
+* update dependency com.google.api.grpc:proto-google-common-protos to v1.18.0 ([#301](https://www.github.com/googleapis/java-storage/issues/301)) ([ff2dee2](https://www.github.com/googleapis/java-storage/commit/ff2dee2ce41d37787f0866ae740d3cd7f3b2bbd6))
+* update dependency com.google.apis:google-api-services-storage to v1-rev20200410-1.30.9 ([#296](https://www.github.com/googleapis/java-storage/issues/296)) ([2e55aa2](https://www.github.com/googleapis/java-storage/commit/2e55aa2c8b9c78df9eebfe748fe72dcaae63ff81))
+
 ## [1.108.0](https://www.github.com/googleapis/java-storage/compare/v1.107.0...v1.108.0) (2020-04-30)
 
 
